@@ -43,7 +43,9 @@ nssm使用说明：[https://wizops.net/archives/202312/221.html](https://link.zh
 .\alist.exe server
 ```
 
-![img](https://pic4.zhimg.com/v2-d567d44d5152b3eb1eec52a430138da5_1440w.jpg)
+![img](image/v2-d567d44d5152b3eb1eec52a430138da5_1440w)
+
+
 
 然后在浏览器中打开：127.0.0.1:5244
 使用用户名：admin和刚才设置的密码登录即可
