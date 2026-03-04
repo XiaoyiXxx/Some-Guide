@@ -43,7 +43,7 @@ nssm使用说明：[https://wizops.net/archives/202312/221.html](https://link.zh
 .\alist.exe server
 ```
 
-![img](image/v2-d567d44d5152b3eb1eec52a430138da5_1440w)
+![img](image/v2-d567d44d5152b3eb1eec52a430138da5_1440w.jpg)
 
 
 
