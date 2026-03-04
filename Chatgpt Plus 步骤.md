@@ -15,3 +15,6 @@ ChatGPT士兵认证优惠，在outlook里面重新注册一个邮箱注册ChatGP
 
 
 ![img](image/43b5ddc4457be295661d1bf1ba6ddd77.png)
+
+![img](image/Snipaste_2026-01-05_21-11-48.jpg)
+![img](image/Snipaste_2026-01-05_21-11-57.jpg)
