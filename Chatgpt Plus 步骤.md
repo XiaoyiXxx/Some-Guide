@@ -10,4 +10,8 @@ ChatGPT士兵认证优惠，在outlook里面重新注册一个邮箱注册ChatGP
 地址美国
 卡片填写地址信息:30N South Gould Street, Sheridan, WY 82801
 邮编82801
+
 美国或者新加坡环境支付
+
+
+![img](image/43b5ddc4457be295661d1bf1ba6ddd77.png)
