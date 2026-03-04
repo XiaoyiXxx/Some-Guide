@@ -26,7 +26,7 @@ nssm使用说明：[https://wizops.net/archives/202312/221.html](https://link.zh
 
 下载alist，根据你的系统选择，window系统下载alist-window-amd64.zip即可
 
-![img](https://pica.zhimg.com/v2-409e7b4ccedcd08dd4cd6c4de4f62b9c_1440w.jpg)
+![](F:\typora\v2-409e7b4ccedcd08dd4cd6c4de4f62b9c_1440w.jpg)
 
 下载后解压到你指定的目录，进入目录按住shift+鼠标右键选择”在终端中打开”
 在命令行中设置密码
