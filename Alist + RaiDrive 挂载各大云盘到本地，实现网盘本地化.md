@@ -105,27 +105,27 @@ C:\Windows\System32>
 
 在搜索框中搜索“cmd”或按win+R键，打开命令窗口。在默认路径后输入“cd”，空格，再输入（复制）指定文件夹路径。我们发现回车后暂时还是原来默认的路径。
 
-![img](https://pica.zhimg.com/v2-883e375319ad2a327e0d20b3f8f71c3e_1440w.webp?consumer=ZHI_MENG)
+![img](image/Snipaste_2026-03-04_15-51-55.jpg)
 
 然后输入指定文件夹所在的盘，这里我们输入的是“E:"（双引号里的），再回车就是指定的路径了。
 
-![img](https://pic4.zhimg.com/v2-c58c2fe3cda1101b40c20dc0727c1b69_1440w.webp?consumer=ZHI_MENG)
+![img](image/Snipaste_2026-03-04_15-52-23.jpg)
 
 ## 挂载夸克网盘
 
 点击存储
 
-![img](https://picx.zhimg.com/v2-174288420cef9fdbb6008f80a3104e35_1440w.jpg)
+![img](image/v2-174288420cef9fdbb6008f80a3104e35_r.jpg)
 
 点击添加
 
-![img](https://pica.zhimg.com/v2-44878fdb30f6961262feef560690007c_1440w.jpg)
+![img](image/v2-44878fdb30f6961262feef560690007c_1440w.jpg)
 
 添加夸克
 
 挂载路径 /夸克 (注:有个/)
 
-![img](https://pic2.zhimg.com/v2-aeed5e740ea74c28e6acc900ae692d97_1440w.jpg)
+![img](image/v2-aeed5e740ea74c28e6acc900ae692d97_1440w.jpg)
 
 还有个cookie要填
 
@@ -133,12 +133,12 @@ C:\Windows\System32>
 
 按F12
 
-![img](https://picx.zhimg.com/v2-804e0a8c8fd84dda05978b376d78c351_1440w.jpg)
+![img](image/v2-804e0a8c8fd84dda05978b376d78c351_1440w.jpg)
 
 依次点击 网络-名称任意一个-标头-下滑找到coolie-复制右侧它的代码
 
 填到Alist的cookie中
 
-![img](https://pic1.zhimg.com/v2-53b5ac613c4b0014879b5ac042fe388c_1440w.jpg)
+![img](image/v2-53b5ac613c4b0014879b5ac042fe388c_1440w.jpg)
 
 点击添加就ok
