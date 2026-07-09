@@ -39,7 +39,8 @@ git config --global user.name "你的用户名"
 # 设置你的Git邮箱地址（使用你注册GitHub时使用的邮箱）
 git config --global user.email "your.email@example.com"
 ```
-(解决-vscode-向-github-提交代码失败的问题国内网络环境)[https://blog.vvocc.com/blog/%E8%A7%A3%E5%86%B3-vscode-%E5%90%91-github-%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81%E5%A4%B1%E8%B4%A5%E7%9A%84%E9%97%AE%E9%A2%98%E5%9B%BD%E5%86%85%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83/]
+解决-vscode-向-github-提交代码失败的问题国内网络环境
+打开终端或命令行，执行以下命令： git config --global http.proxy http://127.0.0.1:端口号  端口号是代理软件中的HTTP 端口或 SOCKS 端口 
 ### 验证配置
 
 配置完成后，可以通过以下命令验证设置是否正确：
