@@ -1,14 +1,14 @@
-![image-20260804104147688](C:\Users\Wxyi\Desktop\assets\image-20260804104147688.png)
+![image-20260804104147688](assets\image-20260804104147688.png)
 
-![image-20260804104201271](C:\Users\Wxyi\Desktop\assets\image-20260804104201271.png)
+![image-20260804104201271](assets\image-20260804104201271.png)
 
 
 
-![image-20260804104222149](C:\Users\Wxyi\Desktop\assets\image-20260804104222149.png)
+![image-20260804104222149](assets\image-20260804104222149.png)
 
 ==这里outboundTag选direct==
 
-![image-20260804104242018](C:\Users\Wxyi\Desktop\assets\image-20260804104242018.png)
+![image-20260804104242018](assets\image-20260804104242018.png)
 
 ==直接把新创建的规则移到最顶端==
 
@@ -16,6 +16,6 @@
 
 ==TUN模式开了没网==：在windows自带的防火墙中设置vpn主程序对**专用 / 公用**网络均已允许
 
-![image-20260804105044494](C:\Users\Wxyi\Desktop\assets\image-20260804105044494.png)
+![image-20260804105044494](assets\image-20260804105044494.png)
 
-![image-20260804105144494](C:\Users\Wxyi\Desktop\assets\image-20260804105144494.png)
+![image-20260804105144494](assets\image-20260804105144494.png)
